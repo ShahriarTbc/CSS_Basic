@@ -60,12 +60,12 @@ CSS_Basic/
 ✅ Covers both basic & advanced CSS concepts  
 ✅ Useful for self-practice and revision
 
----
+
 
 <h1>🌟 Contributions & Feedback</h3>
 Since this is a personal learning project, contributions aren't required. However, if you have suggestions, feel free to open an issue!
 
----
+
 
 <h3>**📧 Contact Me**</h3>
 If you have any questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/ShahriarTbc/CSS_Basic/issues).  
