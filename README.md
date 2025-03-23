@@ -1,6 +1,6 @@
 # CSS Basics #
 
-Welcome to **CSS_Basic!** This repository is dedicated to learning and practicing HTML & CSS. It covers all essential CSS properties, attributes, and concepts in a structured way.
+Welcome to **CSS_Basic!** This repository is dedicated to learning and practicing HTML & CSS. It covers all essential CSS properties, attributes, and concepts in a structured way. 
 
 
 
@@ -55,14 +55,13 @@ CSS_Basic/
 
 
 <h3>🎯 Why This Repository?</h3>
-✅ Well-structured for easy learning
-✅ Practical examples for hands-on experience
-✅ Covers both basic & advanced CSS concepts
+✅ Well-structured for easy learning  
+✅ Practical examples for hands-on experience  
+✅ Covers both basic & advanced CSS concepts  
 ✅ Useful for self-practice and revision
 
-
 <h3>🌟 Contributions & Feedback</h3>h3>
-Since this is a personal learning project, contributions aren't required. However, if you have suggestions, feel free to open an issue!
+Since this is a personal learning project, contributions aren't required. However, if you have suggestions, feel free to open an issue!  
 
 
 <h3>**📧 Contact Me**</h3>
