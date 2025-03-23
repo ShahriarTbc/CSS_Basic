@@ -22,8 +22,8 @@ Here, you'll find:
 ✔️ Advanced CSS Concepts
 
 
-
-**📂 Project Structure**
+```
+## 📂 Project Structure
 CSS_Basic/
 │── 01_HTML_Basics/
 │   ├── headings.html
@@ -43,7 +43,7 @@ CSS_Basic/
 │   ├── grid-layout.css
 │   ├── grid-template.css
 │── more...
-
+```
 
 **🔥 How to Use?**
 1. Clone the repository: git clone https://github.com/ShahriarTbc/CSS_Basic.git
