@@ -59,7 +59,7 @@ CSS_Basic/
 ✅ Useful for self-practice and revision
 
 
-</h3>🌟 Contributions & Feedback<h3>
+<h3>🌟 Contributions & Feedback</h3>h3>
 Since this is a personal learning project, contributions aren't required. However, if you have suggestions, feel free to open an issue!
 
 
