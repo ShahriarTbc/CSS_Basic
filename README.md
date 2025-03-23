@@ -24,6 +24,7 @@ Here, you'll find:
 
 ```
 ## 📂 Project Structure
+
 CSS_Basic/
 │── 01_HTML_Basics/
 │   ├── headings.html
