@@ -12,14 +12,14 @@ This repository is designed for beginners and those who want to solidify their u
 <h3> 🚀 What You Will Learn </h3>
 Here, you'll find:
 
-✔️ HTML & CSS Basics
-✔️ Selectors & Specificity
-✔️ Box Model & Positioning
-✔️ Flexbox & Grid Layout
-✔️ Typography & Fonts
-✔️ Transitions & Animations
-✔️ Media Queries & Responsive Design
-✔️ Advanced CSS Concepts
+✔️ HTML & CSS Basics. 
+✔️ Selectors & Specificity. 
+✔️ Box Model & Positioning. 
+✔️ Flexbox & Grid Layout. 
+✔️ Typography & Fonts. 
+✔️ Transitions & Animations. 
+✔️ Media Queries & Responsive Design. 
+✔️ Advanced CSS Concepts. 
 
 
 ```
