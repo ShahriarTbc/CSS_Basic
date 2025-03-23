@@ -4,7 +4,7 @@ Welcome to **CSS_Basic!** This repository is dedicated to learning and practicin
 
 
 
-**📌 About This Repository**
+##📌 About This Repository
 This repository is designed for beginners and those who want to solidify their understanding of CSS. E**ach CSS property, tag, and attribute** is stored in a separate folder, making it easy to navigate and practice.
 
 
