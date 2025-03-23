@@ -47,8 +47,10 @@ CSS_Basic/
 ```
 
 <h3>🔥 How to Use?</h3>
-1. Clone the repository: git clone https://github.com/ShahriarTbc/CSS_Basic.git
-2. Open the files in your browser or **VS Code**.
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/ShahriarTbc/CSS_Basic.git
+2. Open the files in your browser or VS Code.
 3. Practice modifying the code and see the results live!
 
 
