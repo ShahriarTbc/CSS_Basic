@@ -4,5 +4,5 @@ p{color: rgba(255,0, 0, 0.4);}   /*This is RGBA color*/
 div{color: rgb(255, 0, 0);}     /*This is RGB color*/
 h1{color: red;}                /* This is color name*/
 h2{color:	#0000ff;}           /* This color code*/
-h3{color: #ff0000;}         /* This is HEX color*/
-span{color: #5f9c5f} ;     /* Color Picker */
+h3{color: #ff0000;}          /* This is HEX color*/
+span{color: #5f9c5f} ;      /* Color Picker */
