@@ -1,0 +1,17 @@
+body{background-color: aqua;}
+
+#border{
+  border-style: solid; /*solid,dotted,dashed,double,outset,inset,groove,ridge,none*/
+  border-style: solid dotted dashed double ;
+  border-width: 5px;
+  border-color: red yellow;
+  border-radius: 10px;
+
+  /* border: 5px solid yellow; (Recommend) */
+
+  /* border-top-style: solid;
+  border-right-style: solid ;
+  border-bottom-style: solid;
+  border-left-style: solid ; */
+  
+}
