@@ -1,0 +1,13 @@
+body{
+  background-color: aqua;
+}
+
+p{
+  margin: 50px;
+  border: 1px solid black;
+
+  outline-width: 10px;
+  outline-style: solid;
+  outline-color: green;
+  outline-offset: 20px;
+}
