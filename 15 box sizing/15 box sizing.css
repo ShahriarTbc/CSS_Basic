@@ -1,0 +1,19 @@
+body{background-color: aqua;}
+
+
+.div1{
+  background-color: orangered;
+  width: 400px;
+  height: 100px;
+  border: 20px solid black;
+  padding: 50px;
+  box-sizing: border-box;  /*Box sizing fixed*/
+}
+
+.div2{
+  background-color: aliceblue;
+  width: 400px;
+  height: 100px;
+  border: 20px solid black;
+  padding: 50px;
+}
