@@ -1,0 +1,30 @@
+body{background-color: aqua;}
+
+
+.text{
+  border: 1px solid black;
+  width: 500px;
+  height:200px;
+  margin: 50px auto;
+  
+  text-decoration: underline;    /*overline,underline,line-through,none*/
+  text-transform: lowercase ;   /*uppercase,lowercase,capitalize*/
+  word-spacing: 20px;
+  letter-spacing: 1px;
+  line-height: 30px;
+
+  /* white-space:nowrap;   pre,nowrap (word space, no line space) */
+  word-wrap: break-word;        /* Big Word rrrrrrrrrrr*/
+}
+
+h1{
+  text-shadow: 10px 10px 4px red;
+}
+
+h2{
+  border: 2px solid black;
+  width: 200px;
+
+  writing-mode: vertical-rl;  /*vertical-lr, vertical-rl*/
+}
+
