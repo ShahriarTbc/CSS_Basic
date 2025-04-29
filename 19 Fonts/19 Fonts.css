@@ -1,0 +1,21 @@
+body{background-color: aqua;}
+
+#box{
+  width: 600px;
+  border: 2px solid black;
+  margin: 50px auto;
+  text-align: center;
+}
+
+#box p{                                /* #box p*/
+  font-size: 30px;
+  font-weight: bold;                 /* bold,bolder,normal,lighter,(1-100);*/
+  font-style: italic;               /*normal,oblique*/
+  font-variant: small-caps;
+  font-family: monospace;
+  text-transform: capitalize;    /*uppercase, capitalize*/
+}
+
+#box h1 {
+  font: oblique small-caps bold 25px monospace;
+}
