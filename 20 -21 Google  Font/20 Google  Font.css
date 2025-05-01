@@ -1,0 +1,17 @@
+body{background-color: aqua;}
+
+.text{
+  font-family: "Carter One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family:'hi by';
+  src: url('font/Hashing.ttf');
+}
+
+#p{
+  font-family:'hi by', monospace;
+  font-size: 30px;
+}
