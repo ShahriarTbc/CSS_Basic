@@ -55,9 +55,9 @@ CSS_Basic/
 3. Practice modifying the code and see the results live!
 
 <h3>🎯 Why This Repository?</h3>
-✅ Well-structured for easy learning  
-✅ Practical examples for hands-on experience  
-✅ Covers both basic & advanced CSS concepts  
+✅ Well-structured for easy learning  <br>
+✅ Practical examples for hands-on experience   <br>
+✅ Covers both basic & advanced CSS concepts   <br>
 ✅ Useful for self-practice and revision
 
 
