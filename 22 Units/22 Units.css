@@ -1,0 +1,22 @@
+body{background-color: aqua;}
+
+html{
+font-size: 20px;
+}
+
+#Parent{
+  border: 1px solid black;
+  /* width: 600px; */
+  /* height: 50vh; */
+  /* width: 50vw; */
+  /* font-size: 40px; */
+  font-size: 2rem;
+
+}
+
+#Child{
+  border: 2px solid black;
+  width: 50%;
+  font-size: 2em;
+
+}
