@@ -1,0 +1,12 @@
+body{background-color:aqua}
+
+div{
+  border: 1px solid blue;
+  width: 150px;
+  padding: 20px;
+  text-align: center;
+  margin: 50px auto;
+  background-color: green;
+  /* box-shadow: 10px 10px 5px 0px red inset; */
+  box-shadow: 10px 10px 5px 0px red, -10px 10px 5px 0px black;
+}
