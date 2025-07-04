@@ -1,0 +1,28 @@
+body{background-color: rgb(21, 255, 0);}
+
+img:hover{
+  opacity: 0.7;
+}
+
+#color-box{
+  background-image: url('image/web.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 500px;
+  height: 500px;
+  
+}
+
+#color-box h1{
+  background-color: blueviolet;
+  color: white;
+  padding: 30px 0px;
+  text-align: center;
+  
+}
+
+#color-box h1:hover{
+  opacity: 0.2;
+}
+
+
