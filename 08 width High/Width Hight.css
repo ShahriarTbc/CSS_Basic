@@ -1,0 +1,13 @@
+body{background-color: aqua;}
+
+
+#firstDiv{
+  background-color: orangered;
+  width: 350px;
+  height: 300px;
+
+  max-width: 450;
+  max-height: 400;
+  min-width: 250;
+  min-height: 200;
+}

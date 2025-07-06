@@ -1,0 +1,24 @@
+body{background-color: aqua;}
+
+
+/* .firstP{
+background-color: red;
+background-image: url('image/square_b.png');
+background-repeat: no-repeat;
+background-position: right top;          /left,right,top,buttom,10px,10px,10%,10% /
+background-size: cover;                 / cover,contain,80% /
+background-attachment: fixed;}         /fixed,scroll */
+
+/*Multiple Background*/
+.firstP{
+  background-color: yellow;
+  background-image: url(image/square.png), url(image/square_b.png);
+  background-repeat: no-repeat;
+  background-position: left top, right bottom;
+  background-size: 40%, 40%;
+}
+
+
+
+
+
