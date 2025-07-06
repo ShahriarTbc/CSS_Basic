@@ -1,0 +1,16 @@
+body{background-color: aqua;}
+
+img{
+ /* filter: blur(5px); */
+ /* filter: brightness(900%); */
+ /* filter:contrast(900%) ; */
+ /* filter: drop-shadow(-10px -10px 5px red) ; */
+ /* filter: grayscale(100%); */
+ /* filter: hue-rotate(360deg); */
+ /* filter: invert(100%); */
+ /* filter: opacity(100%); */
+ /* filter: saturate(900%);  */
+ /* filter: sepia(100%); */
+ /* filter: none; */
+ filter: blur(2px) contrast(200%);
+}
