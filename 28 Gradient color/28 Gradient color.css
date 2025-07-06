@@ -1,0 +1,24 @@
+body{background-color: aqua;}
+
+
+#div{
+  width: 250px;
+  height: 150px;
+  border: 2px solid black;
+  margin: auto;
+  /* background: repeating-linear-gradient(|to bottom right|, green 30%,red 20px, blue);  |70deg| */
+  background: repeating-linear-gradient(green 20%, red 30%, blue 40%);
+}
+
+
+#s-div{
+  width: 250px;
+  height: 150px;
+  border: 2px solid black;
+  margin: 30px auto; 
+  /* background: radial-gradient(circle,green 20%, red, blue, yellow); */
+  /* background: radial-gradient(closest-side at 20% 30%,green 20%, red, blue, yellow); */
+  /* background: radial-gradient(farthest-side at 20% 30%,green 20%, red, blue, yellow); */
+  background: repeating-radial-gradient(green 20%, red 30%, blue 40%);
+}
+
