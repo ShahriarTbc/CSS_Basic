@@ -1,0 +1,19 @@
+body{background-color: aqua;}
+
+#div{
+  width: 500px;
+  height: 200px;
+  border: 2px solid black;
+
+  overflow: auto;     
+  resize: both; /*none, both, horizontal, vertical*/
+}
+
+
+
+.area{
+  width: 500px;
+  height: 200px;
+  margin-top: 20px;
+  resize: none;
+}
